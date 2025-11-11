@@ -44,8 +44,6 @@ From September 2018 to June 2022, I pursued undergraduate studies in Communicati
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-以下为正式学术化英文教育经历内容，可直接替换到 about.md 中对应位置：
-
 - *2022.09 - 2025.06*, Master of Engineering in Information and Communication Engineering, School of Electronic Information, Soochow University. Research interests: data center optical network architecture, optical switching technologies, and linear programming-based network optimization.
 - *2018.09 - 2022.06*, Bachelor of Engineering in Communication Engineering, North China Institute of Aerospace Engineering.
 # 💬 Invited Talks
