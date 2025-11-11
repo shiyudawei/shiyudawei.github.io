@@ -7,13 +7,13 @@ main:
     url: "/#-educations"
 
   - title: "Work Experiences"
-    url: "/#-news"
+    url: "/#-work-experiences"
 
   - title: "Project Experiences"
-    url: "/#-internships"
+    url: "/#-project-experiences"
 
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Patents and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#-patents-and-awards"
