@@ -25,11 +25,12 @@ From September 2018 to June 2022, I pursued undergraduate studies in Communicati
 - *2018.09 - 2022.06*, Bachelor of Engineering in Communication Engineering, North China Institute of Aerospace Engineering.
 
 # 🔥 Work Experiences
-- *2025.06 - now()*: JD.COM, Inc, Backend Developer
+- *2025.06 - now*: JD.COM, Inc, Backend Developer
 
 # 💻 Project Experiences
 - "........."
 - "........."
+
 # 📝 Publications 
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
@@ -47,14 +48,13 @@ From September 2018 to June 2022, I pursued undergraduate studies in Communicati
 [//]: # (</div>)
 
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
-# 
+
 # 🎖 Patents and Awards
 -  [混合拓扑数据中心网络的业务部署方法、系统、介质、设备](https://kns.cnki.net/kcms2/article/abstract?v=uSrlZFhNZxL3LAt9bntjR0lXtZZw_y_S3qR9sl9Ax_lRzfj4kdnyNsQfqBM4QLew5vpPyfs-Z1PW-M61vFa4qWLYP0IDksqATltcNVb3azebv-R9NWgT9eGCNMTKvyhMKvTSusAMnXM-JdkPUMxRCJx5qhgAUHNMIQ7P_u5nYgIWfv2SWPFd7Q==&uniplatform=NZKPT&language=CHS), 沈纲祥，**于大为**，李泳成 
 
 
 
 [//]: # (# 💬 Invited Talks)
-
 [//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
